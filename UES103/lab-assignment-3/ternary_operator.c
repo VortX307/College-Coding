@@ -1,4 +1,4 @@
-//This is a program that uses the ternary operator
+//This is a program that uses the ternary operator to find if the given number is even or odd.
 #include <stdio.h>
 
 

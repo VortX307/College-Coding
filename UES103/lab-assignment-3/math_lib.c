@@ -1,4 +1,4 @@
-// this program uses common functions of the math library
+// this program uses common functions of the math library.
 #include <stdio.h>
 #include <math.h>
 

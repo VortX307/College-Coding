@@ -1,4 +1,4 @@
-//Program to use bitwise shift operators.
+//Program to understand bitwise shift operators.
 #include <stdio.h>
 
 

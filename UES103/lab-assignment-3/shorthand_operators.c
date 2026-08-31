@@ -1,4 +1,4 @@
-//A program to demonstrate shorthand operators
+//A program to demonstrate shorthand operators.
 #include <stdio.h>
 
 

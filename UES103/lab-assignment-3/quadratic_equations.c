@@ -1,4 +1,4 @@
-//A program to find the roots of a quadratic equation for the case D>0
+//A program to find the roots of a quadratic equation for the case D > 0.
 #include <stdio.h>
 #include <math.h>
 

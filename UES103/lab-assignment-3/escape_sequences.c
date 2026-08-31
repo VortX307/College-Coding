@@ -1,3 +1,4 @@
+//A program to use and learn escape sequences in c.
 #include <stdio.h>
 #include <unistd.h> // Used for sleep()
 
